@@ -1,7 +1,6 @@
 # hello-world
 HELLO WORLD <br>
-This is Manav <br>
-Name: Manav Ranpura <br>
-Student Number: 991502022 <br>
-Login Name: RANPURA <br>
-Campus: Trafalgar <br>
+Your Name: Manav Ranpura <br>
+Your Student Number: 991502022 <br>
+Your Login Name: RANPURA <br>
+Your Campus FOR SYST24444 Exercise 3: Trafalgar <br>
